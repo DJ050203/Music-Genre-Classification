@@ -14,7 +14,7 @@ Before you start, make sure you have the following requirements installed on you
 1. Clone this repository to your local machine:
 
    bash
-   git clone https://github.com/yourusername/music-genre-classification.git
+   git clone https://github.com/DJ050203/Music-Genre-Classification.git
    
 
 2. Navigate to the project directory:
